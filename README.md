@@ -272,9 +272,7 @@ This code is currently submitted for academic evaluation. **The source files can
 
 ---
 
-## License & Contact
-
-This project is licensed under the **[MIT License / Apache 2.0 / etc.]** - see the `LICENSE.md` file for details.
+## Contact
 
 Reach out if you have questions or want to collaborate:
 
