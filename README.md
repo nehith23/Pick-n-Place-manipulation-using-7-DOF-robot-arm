@@ -266,10 +266,6 @@ The system successfully:
 - Navigates cluttered environments while avoiding collisions
 - Adapts to changes in the environment (variable table heights)
 
-## Code Availability Notice
-
-This code is currently submitted for academic evaluation. **The source files cannot be shared publicly until the assessment results are released.** Furthermore, public access will be determined based on the university's policy regarding the reuse of coursework for future student cohorts.
-
 ---
 
 ## Contact
