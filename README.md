@@ -276,7 +276,7 @@ This code is currently submitted for academic evaluation. **The source files can
 
 Reach out if you have questions or want to collaborate:
 
-* **GitHub:** [[Your GitHub Profile Link]](https://github.com/nehith23)
+* **GitHub:** https://github.com/nehith23
 * **LinkedIn:** www.linkedin.com/in/nehith-v
 * **Email:** ucabvem@ucl.ac.uk
 
